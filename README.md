@@ -1,3 +1,2 @@
-# portfolio-1
-A portfolio site
-Kingdavid
+# Dynamic-Portfolio
+My Digital Portfolio & Resume
